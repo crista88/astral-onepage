@@ -1,33 +1,39 @@
-Astral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Astral One page (Modified by DOITpro WEB)
+
+Original Template by HTML5 UP for personal and commercial use under the CC BY 3.0 license 
+
+About This Template
+
+This version of Astral has been modified and redesigned by DOITpro WEB based on the original template created by HTML5 UP. It retains the flat, minimalistic design with a fully animated interface (including fallback options for non-script environments) while introducing custom modifications to enhance functionality and visual appeal.
+
+Modifications by DOITpro WEB
+
+Customized layout & design updates to better suit modern websites.
+
+Replaced demo images with a mix of personal images and Pexels free images.
+
+Adjusted styling for various page elements, including typography and animations.
+
+Optimized structure for better usability and mobile responsiveness.
+
+Demo Images
+
+Original Demo Images: Unsplash (unsplash.com) (not included in this version)
+
+New Demo Images: Pexels (pexels.com) & custom images by DOITpro WEB
+
+Credits
+
+Original Template: HTML5 UP 
+
+Icons: Font Awesome (fontawesome.io)
+
+Other Libraries:
+
+jQuery (jquery.com)
 
 
-First of its kind on H5U! Astral features a flat, minimalistic design, a fully animated
-interface (with noscript fallbacks), and styling for all basic page elements (including
-blockquotes, tables and lists). Enjoy!
+PS: Need help with the contact form?
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Give formspree.io a try—it's awesome!
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
